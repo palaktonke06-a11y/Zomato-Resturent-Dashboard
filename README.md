@@ -39,4 +39,4 @@ DAX Functions & Metrics: Count of Restaurant ID, Sum of Aggregate Rating, Total 
 <img src="Screenshot 2026-06-14 131957.png" width="100%">
 
 2. Cost Dynamics & Performance Metrics
-<img src="Screenshot 2026-06-14 1302050.png" width="100%">
+<img src="Screenshot 2026-06-14 132050.png" width="100%">
